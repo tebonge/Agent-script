@@ -1,2 +1,2 @@
 # Agent-script
-This respository is a bash shell script
+This respository is a to store bash shell scripts
